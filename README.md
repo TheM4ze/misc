@@ -2,9 +2,9 @@
     
     various fonts for backup and sharing purpose
         - JetBrains Mono
-        - Dina
+        - Dina & DinaRemaster [ larger font size selection ]
         - Cherry
-        - Kiwi
+        - kiwi
         - tewi
         - telegrama
         - termsyn
