@@ -17,4 +17,5 @@
         - noto
         - font awesome
         - opti
+        - Anonymous Pro
         - etc...
